@@ -1,19 +1,4 @@
 
-<img width="1319" height="663" alt="Home_page-1" src="https://github.com/user-attachments/assets/0e56ea72-3aa2-4e4f-8c6e-167d385bc3b4" />
-<img width="1309" height="646" alt="Home_page-2" src="https://github.com/user-attachments/assets/c2ff2d6c-d99c-45b6-9a5e-f975368dacb5" />
-<img width="1319" height="695" alt="Add_to_cart-1" src="https://github.com/user-attachments/assets/577f5caa-9c59-4748-b576-092e679099d1" />
-<img width="680" height="654" alt="Add_to_cart-2" src="https://github.com/user-attachments/assets/405835b0-c491-4018-946f-7558b48dd1d8" />
-<img width="461" height="592" alt="confirm_status" src="https://github.com/user-attachments/assets/02efba2c-8799-4e05-bf26-68fb81c96c67" />
-<img width="695" height="641" alt="View_all_order" src="https://github.com/user-attachments/assets/d07b4b70-d9f7-4821-b5b2-6206f558ec00" />
-<img width="1245" height="611" alt="admin_dashboard" src="https://github.com/user-attachments/assets/15db0d6d-af49-465f-9547-89d207135080" />
-<img width="695" height="638" alt="Manage_Category" src="https://github.com/user-attachments/assets/7c3d1f02-5c12-4a00-8a69-c7d5ed2fcbe8" />
-<img width="806" height="629" alt="Product_Category" src="https://github.com/user-attachments/assets/67623d6b-c966-4702-a619-b5cab2d84dbb" />
-<img width="723" height="607" alt="Manage_Customer" src="https://github.com/user-attachments/assets/c17c7ce3-2c1d-4ced-a7b1-5a91dd19e7c4" />
-<img width="1224" height="602" alt="Manage_order" src="https://github.com/user-attachments/assets/90df4e4b-deb0-44ee-85bb-1205ed7b9eec" />
-<img width="1216" height="618" alt="Daily_order_report" src="https://github.com/user-attachments/assets/f7df230d-08e4-4004-98db-cb837f202322" />
-<img width="1093" height="639" alt="monthly_order_report" src="https://github.com/user-attachments/assets/363fd912-c753-4b82-b8a7-ffe6e958b879" />
-<img width="1137" height="639" alt="sales_Statistics" src="https://github.com/user-attachments/assets/5f244d6a-377e-47b0-bca8-b105afc252a6" />
-<img width="1023" height="537" alt="Users_Message" src="https://github.com/user-attachments/assets/23bb071e-6ace-4f57-8eb8-04ccaf84f0e5" />
 # 🛒 E-Commerce Project Using Python Django Framework
 
 1.A comprehensive e-commerce web application built with Django 5.2, featuring a complete online shopping experience with admin panel, user authentication, product management, and order processing.
@@ -29,6 +14,15 @@
 - **Mobile Payment Integration** - bKash, Rocket, Nagad, Upay payment options
 - **Order Tracking** - View order history and status
 - **Contact System** - Customer support messaging
+- 
+### 🛍️ Customer Features(Some Feature ScreenShot):
+
+  <img width="1319" height="663" alt="Home_page-1" src="https://github.com/user-attachments/assets/0e56ea72-3aa2-4e4f-8c6e-167d385bc3b4" />
+<img width="1309" height="646" alt="Home_page-2" src="https://github.com/user-attachments/assets/c2ff2d6c-d99c-45b6-9a5e-f975368dacb5" />
+<img width="1319" height="695" alt="Add_to_cart-1" src="https://github.com/user-attachments/assets/577f5caa-9c59-4748-b576-092e679099d1" />
+<img width="680" height="654" alt="Add_to_cart-2" src="https://github.com/user-attachments/assets/405835b0-c491-4018-946f-7558b48dd1d8" />
+<img width="461" height="592" alt="confirm_status" src="https://github.com/user-attachments/assets/02efba2c-8799-4e05-bf26-68fb81c96c67" />
+<img width="695" height="641" alt="View_all_order" src="https://github.com/user-attachments/assets/d07b4b70-d9f7-4821-b5b2-6206f558ec00" />
 
 ### 🎛️ Admin Features
 - **Admin Dashboard** - Comprehensive business overview
@@ -38,6 +32,17 @@
 - **Sales Analytics** - Beautiful charts and performance metrics
 - **Customer Messages** - Handle customer inquiries
 - **User Management** - Admin account management system
+- 
+### 🎛️ Admin Features(Some Feature ScreenShot):
+  <img width="1245" height="611" alt="admin_dashboard" src="https://github.com/user-attachments/assets/15db0d6d-af49-465f-9547-89d207135080" />
+<img width="695" height="638" alt="Manage_Category" src="https://github.com/user-attachments/assets/7c3d1f02-5c12-4a00-8a69-c7d5ed2fcbe8" />
+<img width="806" height="629" alt="Product_Category" src="https://github.com/user-attachments/assets/67623d6b-c966-4702-a619-b5cab2d84dbb" />
+<img width="723" height="607" alt="Manage_Customer" src="https://github.com/user-attachments/assets/c17c7ce3-2c1d-4ced-a7b1-5a91dd19e7c4" />
+<img width="1224" height="602" alt="Manage_order" src="https://github.com/user-attachments/assets/90df4e4b-deb0-44ee-85bb-1205ed7b9eec" />
+<img width="1216" height="618" alt="Daily_order_report" src="https://github.com/user-attachments/assets/f7df230d-08e4-4004-98db-cb837f202322" />
+<img width="1093" height="639" alt="monthly_order_report" src="https://github.com/user-attachments/assets/363fd912-c753-4b82-b8a7-ffe6e958b879" />
+<img width="1137" height="639" alt="sales_Statistics" src="https://github.com/user-attachments/assets/5f244d6a-377e-47b0-bca8-b105afc252a6" />
+<img width="1023" height="537" alt="Users_Message" src="https://github.com/user-attachments/assets/23bb071e-6ace-4f57-8eb8-04ccaf84f0e5" />
 
 ## 🚀 Technologies Used
 
