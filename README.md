@@ -212,4 +212,4 @@ This project is **open-source** under the [MIT License](LICENSE).
 
 ⭐ If you like this project, don’t forget to **star it on GitHub**!
 
-👉 Do you also want me to add a **"Future Improvements / Roadmap"** section (like wishlist features: coupon system, shipping tracking, etc.) to make your README even more professional?
+
