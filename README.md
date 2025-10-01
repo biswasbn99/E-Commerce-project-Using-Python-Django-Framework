@@ -17,8 +17,7 @@ A **full-featured e-commerce platform** built with **Python Django 5.2**, offeri
 * 📦 **Order Tracking** – View order history & statuses
 * 📞 **Customer Support Messaging** – Contact the admin directly
 
-📸 **Screenshots** <img width="954" height="394" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3011b0b9-2c8e-4b91-9f8e-14a6f9490df2" />
-<img width="1366" height="768" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e39892c7-1c27-4ea6-8f8b-874138ab4725" />
+📸 **Screenshots** 
 <img width="1319" height="663" alt="Home_page-1" src="https://github.com/user-attachments/assets/0e56ea72-3aa2-4e4f-8c6e-167d385bc3b4" />
 <img width="1309" height="646" alt="Home_page-2" src="https://github.com/user-attachments/assets/c2ff2d6c-d99c-45b6-9a5e-f975368dacb5" />
 <img width="1319" height="695" alt="Add_to_cart-1" src="https://github.com/user-attachments/assets/577f5caa-9c59-4748-b576-092e679099d1" />
